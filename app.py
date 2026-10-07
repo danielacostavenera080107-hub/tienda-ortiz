@@ -20,7 +20,7 @@ st.markdown(
 
 # 2. Configura tu número de WhatsApp real (Código de país + número sin '+' ni espacios)
 # Ejemplo para Colombia: "573001234567"
-NUMERO_WHATSAPP = "573000000000"  # ← CAMBIA ESTE NÚMERO POR EL TUYO
+NUMERO_WHATSAPP = "573243882384"  # ← CAMBIA ESTE NÚMERO POR EL TUYO
 
 # Inicializar carrito
 if "carrito" not in st.session_state:
